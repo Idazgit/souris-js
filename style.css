@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body {
+    width: 100%;
+    height: 500px;
+}
+.cercle{
+    position: absolute;
+    inset: 0;
+    width: 40px;
+    height: 40px;
+    border-radius: 100px;
+    border: violet 3px solid;
+}
